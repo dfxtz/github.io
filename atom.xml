@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dfxtz&#39;s Blog</title>
+    <link>http://dfxtz.net/</link>
+    <description>Recent content on dfxtz&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 May 2020 17:06:33 +0800</lastBuildDate>
+    
+        <atom:link href="http://dfxtz.net/atom.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>开启我的博客之旅</title>
+      <link>http://dfxtz.net/post/set-sail-20.html</link>
+      <pubDate>Sun, 03 May 2020 17:06:33 +0800</pubDate>
+      
+      <guid>http://dfxtz.net/post/set-sail-20.html</guid>
+      
+        <description>&lt;p&gt;&lt;strong&gt;起航20，一个全新的开始。&lt;/strong&gt;&lt;/p&gt;
+</description>
+      
+    </item>
+    
+  </channel>
+</rss>
